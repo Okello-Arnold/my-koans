@@ -7,7 +7,6 @@
 
 from runner.koan import *
 
-
 class AboutClassAttributes(Koan):
     class Dog:
         pass
